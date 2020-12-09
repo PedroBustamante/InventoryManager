@@ -16,6 +16,9 @@ O Invetory Manager(IM) é um programa criado para facilitar a organização de e
 # Tecnologias
 
 Frontend: React.js
+
 Backend: Node.js
+
 Banco de dados: MySQL
+
 Gerenciamento do projeto e comunicação: SCRUM, Discord/Microsoft Teams
