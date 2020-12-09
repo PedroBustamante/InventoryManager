@@ -1,10 +1,10 @@
 # InventoryManager
+
 Sistema de gerenciamento de estoque para empresas
 
 # Equipe
 
-• Pedro Rios Bustamante
-
+• Pedro Rios Bustamante<br/>
 • Vitor Akira Alkmim Morishita
 
 # Funcionalidades
@@ -15,10 +15,7 @@ O Invetory Manager(IM) é um programa criado para facilitar a organização de e
 
 # Tecnologias
 
-Frontend: React.js
-
-Backend: Node.js
-
-Banco de dados: MySQL
-
+Frontend: React.js<br/>
+Backend: Node.js<br/>
+Banco de dados: MySQL<br/>
 Gerenciamento do projeto e comunicação: SCRUM, Discord/Microsoft Teams
