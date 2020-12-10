@@ -5,7 +5,8 @@ Sistema de gerenciamento de estoque para empresas
 # Equipe
 
 • Pedro Rios Bustamante<br/>
-• Vitor Akira Alkmim Morishita
+• Vitor Akira Alkmim Morishita<br/>
+• Guilherme Versiani Raposo
 
 # Funcionalidades
 
